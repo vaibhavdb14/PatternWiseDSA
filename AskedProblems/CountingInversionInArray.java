@@ -1,3 +1,4 @@
+package AskedProblems;
 /*
     Problem: Counting Inversions in an Array
     Given an array of integers, count the number of inversions in the array.
