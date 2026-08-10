@@ -4,6 +4,12 @@ package AskedProblems;
     Given an array of integers, count the number of inversions in the array.
     An inversion is a pair of indices (i, j) such that i < j and arr[i] > arr[j].
 
+    Example:
+    Input:
+        arr = [2, 4, 1, 3, 5]
+    Output:
+        3
+
 */
 
 public class CountingInversionInArray {
