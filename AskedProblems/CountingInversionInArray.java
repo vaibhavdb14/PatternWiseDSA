@@ -35,3 +35,6 @@ public class CountingInversionInArray {
         System.out.println("Number of inversions in the array: " + inversionCount);
     }
 }
+
+
+// Asked in Lumber 
