@@ -39,5 +39,5 @@ class LC392_IsSubsequence {
 /**
  * link : https://leetcode.com/problems/is-subsequence/description/
  * Time - O(n)
- * Space - O(1)
+ * Space- O(1)
  */
