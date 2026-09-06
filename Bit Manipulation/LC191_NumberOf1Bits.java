@@ -9,6 +9,20 @@ public class LC191_NumberOf1Bits {
 
         return count;
     }
+
+    public static void main(String[] args) {
+        LC191_NumberOf1Bits solution = new LC191_NumberOf1Bits();
+        //1
+        int n = 11; // binary representation: 1011
+        int result = solution.hammingWeight(n);
+        System.out.println("The number of 1 bits in " + n + " is: " + result); 
+
+        //2
+        int n2 = 128; // binary representation: 10000000
+        int result2 = solution.hammingWeight(n2);
+        System.out.println("The number of 1 bits in " + n2 + " is: " + result2);
+
+    }
 }
 
 /**
