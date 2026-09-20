@@ -1,14 +1,19 @@
-package AskedProblems;
-
 /*
     Problem: Search in Rotated Sorted Array
     Given a sorted array that has been rotated at some pivot unknown to you beforehand, and a target value, search for the target in the array. If found, return its index; otherwise, return -1.
+
 
     Example:
     Input:
         nums = [4,5,6,7,0,1,2], target = 0
     Output:
         4
+
+    Example:
+    Input:
+        nums = [4,5,6,7,0,1,2], target = 3
+    Output:
+        -1
 
 */
 
